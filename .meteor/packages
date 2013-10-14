@@ -8,3 +8,5 @@ autopublish
 insecure
 preserve-inputs
 bootstrap
+accounts-ui
+accounts-facebook
